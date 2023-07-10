@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Montserrat</h1>
-<h3 align="center">A passionate frontend developer from México. I'm excited to face challenges and find creative solutions to improve user experience and create engaging interfaces.</h3>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<h3 align="center">A passionate Frontend developer from México. I'm excited to face challenges and find creative solutions to improve user experience and create engaging interfaces.</h3>
+
+<br>
 
 - 🔭 I’m currently working on [Movie-Challenge](https://github.com/MontserratPoblano/DEV006-movie-challenge-fw)
 
